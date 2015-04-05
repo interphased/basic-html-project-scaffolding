@@ -1,8 +1,8 @@
 # Basic HTML Project Scaffolding
-Basic HTML project scaffolding with LESS, Gulp, &amp; Bower.
+Basic HTML project scaffolding with Gulp, Bower, &amp; LESS.
 
 ## Overview
-This project helps speed up the process of setting up a simple HTML project. It creates a maintainable directory structure and stays out of your way.
+This project helps speed up the process of setting up a simple HTML project. It creates a maintainable directory structure in addition to configuring Gulp and Bower - and that's basically it. The project is intentionally bare so you can do whatever you want. By default it uses LESS but you can easily replace it with SASS or whatever you want.
 
 ## Project Tree
 ```
