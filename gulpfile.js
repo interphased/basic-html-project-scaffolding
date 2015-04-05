@@ -38,7 +38,7 @@ gulp.task('css', function() {
 // JS
 gulp.task('js', function(){  
   return gulp.src([
-      paths.dev.vendor+'jquery/dist/jquery.js',
+      // paths.dev.vendor+'jquery/dist/jquery.js',
       paths.dev.js+'application.js'
     ])
     .pipe(concat('application.min.js'))
