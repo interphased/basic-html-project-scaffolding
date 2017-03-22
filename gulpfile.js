@@ -19,8 +19,8 @@ var paths = {
         'vendor': './assets/vendor/'
     },
     'production': {
-        'css': './public/assets/css/',
-        'js': './public/assets/js/'
+        'css': './public/css/',
+        'js': './public/js/'
     }
 };
 

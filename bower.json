@@ -1,7 +1,7 @@
 {
   "name": "YourProject",
   "dependencies": {
-    //"jquery": "1.12.*",
-    //"bootstrap": "^3.3.6"
+    //"jquery": "3.2.*",
+    //"bootstrap": "^3.3.7"
   }
 }

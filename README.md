@@ -2,7 +2,7 @@
 Basic HTML project scaffolding with Gulp, Bower, &amp; LESS.
 
 ## Overview
-This project helps speed up the process of setting up a simple HTML project. It creates a maintainable directory structure in addition to configuring Gulp and Bower - and that's basically it. The project is intentionally bare so you can do whatever you want. By default it uses LESS but you can easily replace it with SASS or whatever you want.
+This project helps speed up the process of setting up a simple HTML project. It creates a maintainable directory structure in addition to configuring Gulp and Bower - and that's basically it. The project is intentionally bare so you can do whatever you want. By default it uses LESS but you can easily replace it with SASS, Stylus, etc...
 
 ## Project Tree
 ```
@@ -15,14 +15,13 @@ This project helps speed up the process of setting up a simple HTML project. It 
 |   └── vendor
 |
 ├── public
-|   ├── assets
-|   |   ├── css
-|   |   └── js
+|   ├── css
+|   ├── js
 |   └── index.html
 |
 ├── bower.json
 ├── gulpfile.js
-├── package.json
+└── package.json
 ```
 
 ## Getting Started
@@ -33,4 +32,4 @@ This project helps speed up the process of setting up a simple HTML project. It 
 3. Install bower components with `bower install`
 4. Add javascripts to `gulpfile.js`
 5. Import stylesheets in `assets/less/application.less`
-5. Run `gulp watch`
+5. Run `gulp` or `gulp watch`
