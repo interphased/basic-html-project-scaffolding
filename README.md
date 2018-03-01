@@ -12,12 +12,15 @@ This project helps speed up the process of setting up a simple HTML project. It 
 |   |   ├── css
 |   |   └── js
 |   └── index.html
+|
 ├── src
 |   ├── js
-|   |   └── application.js
-|   ├── scss
-|   |   └── application.scss
-|   └── vendor
+|   |   ├── application.js
+|   |   └── scripts.js
+|   └── scss
+|       ├── application.scss
+|       ├── theme.scss
+|       └── variables.scss
 |
 ├── package.json
 └── webpack.mix.js
