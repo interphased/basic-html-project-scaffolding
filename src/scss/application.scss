@@ -1,0 +1,15 @@
+/**
+ * application.scss
+ *
+ * This file compiles to /public/assets/css/application.css
+ * You should use it to import all your sass components
+ */
+
+// Variables
+@import "variables";
+
+// Vendor
+@import "~bootstrap/scss/bootstrap";
+
+// Theme
+@import "theme";
